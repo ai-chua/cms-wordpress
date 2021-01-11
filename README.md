@@ -4,7 +4,7 @@ This example showcases Next.js's [Static Generation](https://nextjs.org/docs/bas
 
 ## Demo
 
-### [cms-wordpress.niliaaa.vercel.app](cms-wordpress.niliaaa.vercel.app)
+### [https://cms-wordpress.niliaaa.vercel.app](http://cms-wordpress.niliaaa.vercel.app)
 
 ## Deploy your own
 
